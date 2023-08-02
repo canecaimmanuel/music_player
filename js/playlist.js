@@ -23,4 +23,10 @@ let songs = [
         img : "despacito",
         audio : "despacito"
     },
+    {
+        name : "Eenie Meenie - Justin ft. Sean Kingston",
+        artist : "Justin Bieber",
+        img : "eenie_meenie",
+        audio : "eenie_meenie"
+    },
 ]
