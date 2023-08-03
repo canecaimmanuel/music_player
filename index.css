@@ -240,6 +240,19 @@ body {
     }
 }
 
+@media screen and (max-width:767px) {
+    body {
+        display: flex;
+        align-items: start;
+        justify-content: center;
+    }
+    .container {
+      width: 50vw !important;
+      height: 40vh !important;
+      padding: 4rem;
+    }
+}
+
 @media screen and (min-width:1280px) {
     .container {
         margin-top: 3rem;
